@@ -1,3 +1,3 @@
 # redis_demo
 
-redis nosql 
+redis nosql 缓存
