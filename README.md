@@ -4,10 +4,11 @@ redis nosql 缓存
 
 redis window版本下载地址https://github.com/microsoftarchive/redis/releases 
 
-下载Redis-x64-3.2.100.zip解压版
-打开redis.windows.conf
+下载Redis-x64-3.2.100.zip并解压，打开redis.windows.conf
+
 配置内存大小，在526行添加：
 maxmemory 1024000000
+
 配置客户端密码，在444行添加：（可以不设置）
 requirepass 12345
 
