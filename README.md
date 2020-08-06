@@ -26,6 +26,6 @@ redis可视化工具 redis-desktop-manager-0.8.8.384.exe
 
 将redis安装成系统服务：redis-server --service-install redis.windows-service.conf
 
-启停服务：redis-server --service-start
+启动服务：redis-server --service-start
 
 停止服务：redis-server --service-stop
