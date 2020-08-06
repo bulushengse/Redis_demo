@@ -24,4 +24,6 @@ redis目录下运行 redis-cli.exe -h 127.0.0.1 -p 6379
 
 redis可视化工具 redis-desktop-manager-0.8.8.384.exe
 
+将redis安装成系统服务：redis-server --service-install redis.windows-service.conf
+
 
